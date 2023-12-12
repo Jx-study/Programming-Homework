@@ -84,6 +84,10 @@ acute triangle
 right triangle  
 
 -------
+## 思路：
+![](mindmap/work_005.jpg)
+
+-------
 ## 代碼：
 ```python
 #type of triangle
