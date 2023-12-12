@@ -82,11 +82,6 @@ else:
     x21 = -b / (2*a)
     x22 = math.sqrt(-T) / (2*a)
     
-    if x11 == 0.0:
-        print("%.1f+%.1fi" %(x11,x12))
-        print("%.1f-%.1fi" %(x21,x22))
-        
-    else:
-        print("%.1f+%.1fi" %(x11,x12))
-        print("%.1f-%.1fi" %(x21,x22))
+    print("%.1f+%.1fi" %(x11,x12))
+    print("%.1f-%.1fi" %(x21,x22))
 ```
