@@ -132,4 +132,50 @@ Example Output 3：
 &#95;&#95;121&#95;&#95;  
 &#95;&#95;&#95;1&#95;&#95;&#95;  
 
-
+# 代碼：  
+```
+# 繪製三種不同的圖形
+# 20231019
+ 
+def pic_type(M,N):
+    if M == 1:
+        for i in range(1, N + 1):
+            # 印出每一行的數字
+            for j in range(1, i + 1):
+                print(j, end="")
+            for j in range(i - 1, 0, -1):
+                print(j, end="")
+            print()  # 換行
+    
+    elif M == 2:
+        for i in range(1, N + 1):
+            # 打印底綫
+            for j in range(1, N - i + 1):
+                print("_", end="")
+            # 打印数字
+            for k in range(1, i + 1):
+                print(k, end="")
+            for k in range(i -1 , 0, -1):
+                print(k, end="")
+            # 打印底綫
+            for j in range(1, N - i + 1):
+                print("_", end="")
+            print()  # 换行
+    
+    elif M == 3:
+        for i in range(1,N + 1):
+            # 打印底綫
+            for j in range(i - 1):
+                print("_", end="")
+            for k in range(1, N - i + 2):
+                print(k, end="")
+            for k in range(N - i, 0,-1):
+                print(k, end="")
+            for j in range(i - 1):
+                print("_", end="")
+            print()  # 换行   
+        
+M = int(input())
+N = int(input())
+picture = pic_type(M, N)
+```
