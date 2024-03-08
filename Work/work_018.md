@@ -44,7 +44,7 @@
 2
 5
 ```
-**範例輸出 2：** 
+**範例輸出 2：**  
 ![image](https://i.imgur.com/coDIqRt.png)
 <br>
 
@@ -62,7 +62,7 @@
 2
 11
 ```
-**範例輸出 4：** 
+**範例輸出 4：**  
 ![image](https://i.imgur.com/6S1g4HT.png)
 <br>
 
@@ -71,7 +71,7 @@
 1
 19
 ```
-**範例輸出 5：**  
+**範例輸出 5：**   
 ![image](https://i.imgur.com/YvmwL28.png)
 <br>
 
@@ -80,7 +80,7 @@
 2
 19
 ```
-**範例輸出 6：** 
+**範例輸出 6：**  
 ![image](https://i.imgur.com/7wpT9iq.png)
 <br>
 
@@ -107,7 +107,7 @@
 3
 7
 ```
-**範例輸出 9：** 
+**範例輸出 9：**  
 ![image](https://i.imgur.com/6ZWFwb1.png)
 <br>
 
@@ -125,7 +125,7 @@
 3
 21
 ```
-**範例輸出 11：** 
+**範例輸出 11：**  
 ![image](https://i.imgur.com/TzfgzZj.png)
 <br>
 
@@ -143,7 +143,7 @@
 4
 15
 ```
-**範例輸出 13：** 
+**範例輸出 13：**  
 ![image](https://i.imgur.com/CZmlLQP.png)
 <br>
 
@@ -152,7 +152,7 @@
 4
 21
 ```
-**範例輸出 14：** 
+**範例輸出 14：**  
 ![image](https://i.imgur.com/QHysOb2.png)
 <br>
 
