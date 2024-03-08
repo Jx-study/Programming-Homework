@@ -5,12 +5,12 @@
 ***print("%.2f" %ans)***
 
 ---------------------------------------------------
-**輸入說明:**  
+## 輸入說明:  
 第一行: 輸入數字num1  
 第二行: 輸入數字num2  
 
 ---------------------------------------------------
-**輸出說明:**  
+## 輸出說明:  
 第一行: Sum:num1+num2  
 第二行: Difference:num1-num2  
 第三行: Product:num1*num2  
@@ -21,37 +21,45 @@
 
 ---------------------------------------------------
 **Example Input 1:**  
+```
 25  
-2  
+2
+```
+
 **Example Output 1:**  
-Sum:27.00  
+>Sum:27.00  
 Difference:23.00  
 Product:50.00  
 Quotient:12.50  
 
 --------------------------------
 **Example Input 2:**  
+```
 -1  
-6  
+6
+```
+ 
 **Example Output 2:**
-Sum:5.00  
+>Sum:5.00  
 Difference:-7.00  
 Product:-6.00  
 Quotient:-0.17  
 
 --------------------------------
 **Example Input 3:**  
+```
 0  
-9  
+9
+```  
 **Example Output 3:**  
-Sum:9.00  
+>Sum:9.00  
 Difference:-9.00  
 Product:0.00  
 Quotient:0.00  
 
 
 ---
-## 代碼
+# 代碼
 ```python
 # Type of Triangle
 # 20230919
