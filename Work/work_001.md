@@ -19,42 +19,48 @@
 
 ---------------------------------------------------
 Example Input 1:  
+```
 Tom  
 905067  
 100  
 100  
 100  
+```
 
 Example Output 1:  
-Name:Tom  
+>Name:Tom  
 ID:905067  
 Average:100  
 Total:300  
 
 -------------------------
 Example Input 2:  
+```
 Ray  
 106590035  
 99  
 90  
 82  
+```
 
 Example Output 2:  
-Name:Ray  
+>Name:Ray  
 ID:106590035  
 Average:90  
 Total:271  
 
 -------------------------  
 Example Input3:  
+```
 David  
 42015632  
 0  
 0  
 0  
+```
 
 Example Output 3:  
-Name:David  
+>Name:David  
 ID:42015632  
 Average:0  
 Total:0  
