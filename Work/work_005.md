@@ -12,10 +12,10 @@
 此題必須寫一個運算的function  
 ***def getTriangle(a, b, c)***
 
-**輸入參數資料型態與類別說明:**  
+## 輸入參數資料型態與類別說明:**  
 1.輸入三個整數邊長(int)  
 
-**輸出參數資料型態與類別說明:**  
+## 輸出參數資料型態與類別說明:**  
 1. 不能成為三角形：輸出not a triangle  
 2. 正三角形：輸出equilateral triangle  
 3. 等腰三角形：輸出isosceles triangle  
@@ -23,72 +23,86 @@
 5. 銳角三角形:輸出acute triangle  
 6. 直角三角形:輸出right triangle  
 
-### 範例:
+## 範例:
 **輸入與輸出對應說明:**
 **輸入**:第一行為第一邊邊長，第二行為第二邊邊長，第三行為第三邊邊長  
 **輸出**:第一行為三角形種類  
 **Input：**  
+```
 5  
 2  
-6  
+6
+```
 **Output：**  
-obtuse triangle  
+>obtuse triangle  
 
 ----------------
-**測試案例(Test Case)資料：**  
+# 測試案例(Test Case)資料：  
 **Input：**  
+```
 4  
 1  
-1  
+1
+```
 **Output：**  
-not a triangle  
+>not a triangle  
 
 ---------------
 **Input：**  
+```
 3  
 3  
-3  
+3
+```
 **Output：**  
-equilateral triangle  
+>equilateral triangle  
 
 ---------------
 **Input：**    
+```
 3  
 2  
-3  
+3    
+```  
 **Output：**  
-isosceles triangle  
+>isosceles triangle  
 
 ---------------
 **Input：**  
+```
 8  
 11  
-5  
+5
+```
 **Output：**  
-obtuse triangle  
+>obtuse triangle  
 
 ---------------
 **Input：**  
+```
 5  
 7  
-8  
+8
+```
 **Output：**  
-acute triangle  
+>acute triangle  
 
 ---------------
 **Input：**  
+```
 3  
 4  
-5  
+5
+```
 **Output：**  
-right triangle  
+>right triangle  
 
 -------
 ## 思路：
 ![](mindmap/work_005.jpg)
 
 -------
-## 代碼：
+# 代碼：
 ```python
 #type of triangle
 #20230919
